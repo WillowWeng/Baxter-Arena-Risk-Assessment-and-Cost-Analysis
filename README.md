@@ -1,1 +1,4 @@
 # Baxter-Arena-Risk-Assessment-and-Cost-Analysis
+An interdisciplinary team (including experts in business, computer science, and engineering) focused on creating a comprehensive, multi-perspective approach to predict, prevent, and effectively respond to potential terrorist threats at Baxter Arena. This involved leveraging our diverse skills to develop predictive models, implement robust preventive measures, and design a coordinated response strategy to ensure the safety of arena patrons and operations.
+
+The business team developed a comprehensive 6-step process to predict, prevent, and respond to potential terrorist threats. This process included identifying critical assets and potential threats, assessing the likelihood and vulnerability of each threat, evaluating potential consequences, and calculating an overall risk score.
